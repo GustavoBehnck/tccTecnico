@@ -1,0 +1,33 @@
+# para clonar repositórios
+$ git clone git@github.com:eduschiavo/Y520136.git
+
+# listar branches
+$ git branch --all
+
+# download das ultimas modificações e branches
+$ git pull
+
+# trocar de branch
+$ git checkout nomedabranch
+
+# cria uma branch
+$ git checkout -b nomedabranch
+
+# verifica modificações
+$ git status
+
+# adiciona as modificações ou novos arquivos
+$ git add nomedoarquivo
+$ git add -A
+
+# commit
+$ git commit -am "minhas mod"
+
+# push
+$ git push
+
+# apagar branch
+$ git branch -d nomedabranch
+
+# limpar cache remoto e local
+$ git fetch --prune
