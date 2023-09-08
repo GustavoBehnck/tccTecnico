@@ -1,2 +1,1 @@
-# tccTecnico
-Meu TCC do tecnico
+# TCC
